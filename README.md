@@ -1,8 +1,7 @@
-### Hi there 👋
-[![](https://github.com/brinleyww/brinleyww/blob/main/chat.svg)](https://github.com/brinleyww)
-
-<h3 align="center">A developer passionate about Artificial Intelligence & Robotics</h3>
-<h4 align="center"> Member of FTC Team 32132 </h4>
+> **Hi there 👋**
+> 
+> 💬 *I'm Brinley, a developer passionate about Artificial Intelligence & Robotics.*
+> 🤖 *Member of FTC Team 32132.*
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=brinleyww&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -45,7 +44,17 @@
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
       <a href="#"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
+      <a href="#"><img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72.svg?logo=lua&logoColor=white"></a>
       <a href="#"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-33445C.svg?logo=autohotkey&logoColor=white"></a>
+  </p>
+
+  <h3>📚 Popular Libraries & Frameworks</h3>
+  <p>
+      <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+      <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404d59.svg?logo=express&logoColor=white"></a>
   </p>
 
   <h3>🤖 AI & Machine Learning</h3>
@@ -86,7 +95,102 @@
 </details>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brinleyww/brinleyww/main/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/brinleyww/brinleyww/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
 </p>
 
 <br/>
+
+# 💻 Technology Grid
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>Github
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
+      <br>VsCode
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="Tensorflow" />
+      <br>Tensorflow
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="Pytorch" />
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<p align="center">
+<!-- Note: To use wakatime stats, you need to sign up at wakatime.com and connect your GitHub! -->
+<a href="https://wakatime.com/@brinleyww"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=brinleyww&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="wakatime stats"/></a>
+<a href="https://github.com/brinleyww?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brinleyww&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="trophy stats"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/brinleyww"><img src="https://profile-counter.glitch.me/brinleyww/count.svg" alt="brinleyww :: Visitor's Count" /></a>
+</p>
+
+## Languages and Tools  
+<div align="center">  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
+<a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="25" /></a>  
+<a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
+<a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+</div>  
+
+<br/>  
+
+# 📊 Extra GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brinleyww&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=brinleyww&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brinleyww&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🔝 Top Contributed Repo
+!
