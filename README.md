@@ -1,9 +1,8 @@
 > **Hi there 👋**
 > 
-> 💬 *I'm Brinley, a developer passionate about Artificial Intelligence & Robotics.*
-> 🤖 *Member of FTC Team 32132.*
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=brinleyww&theme=radical&no-frame=false&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+> 💬 *I'm Bryan, a developer passionate about Artificial Intelligence & Robotics.*
+> 
+> 🤖 *President of FTC Team 32132.*
 
 <p align="center">
   <a href="https://github.com/brinleyww"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=brinleyww&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="brinleyww" /></picture></a>
@@ -161,9 +160,7 @@
 <br>
 
 <p align="center">
-<!-- Note: To use wakatime stats, you need to sign up at wakatime.com and connect your GitHub! -->
-<a href="https://wakatime.com/@brinleyww"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=brinleyww&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="wakatime stats"/></a>
-<a href="https://github.com/brinleyww?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=brinleyww&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="trophy stats"/></a>
+  <a href="https://wakatime.com/@brinleyww"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=brinleyww&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="wakatime stats"/></a>
 </p>
 
 <p align="center">
