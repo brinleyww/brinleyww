@@ -50,7 +50,7 @@
       <a href="#"><img alt="AutoHotkey" src="https://img.shields.io/badge/AutoHotkey-33445C.svg?logo=autohotkey&logoColor=white"></a>
   </p>
 
-  <h3>📚 Popular Libraries & Frameworks</h3>
+  <h3>📚 Favorite Libraries & Frameworks</h3>
   <p>
       <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
