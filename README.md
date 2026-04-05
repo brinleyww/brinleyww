@@ -81,10 +81,6 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <p align="center">
-    <a href="https://github.com/brinleyww"><img alt="brinleyww's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=brinleyww&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-    <a href="https://github.com/brinleyww"><img alt="brinleyww's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brinleyww&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  </p>
 
   <p align="center">
     <a href="https://github.com/brinleyww"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brinleyww&theme=react&hide_border=true&background=1F222E" alt="@brinleyww's github-readme-streak-stats" width="80%"/></a>
