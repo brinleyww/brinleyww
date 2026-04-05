@@ -31,6 +31,9 @@
   <a href="https://github.com/brinleyww?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/brinleyww?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=brinleyww&label=Profile%20Views&color=0e75b6&style=flat" alt="brinleyww :: Visitor's Count" />
+</p>
 
 <br/>
 
@@ -161,10 +164,6 @@
 
 <p align="center">
   <a href="https://wakatime.com/@brinleyww"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=brinleyww&theme=gotham&hide_border=true&layout=compact&hide_title=true&langs_count=14&range=all_time"  width="58%" alt="wakatime stats"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brinleyww&label=Profile%20Views&color=0e75b6&style=flat" alt="brinleyww :: Visitor's Count" />
 </p>
 
 <br/>  
