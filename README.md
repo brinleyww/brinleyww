@@ -167,7 +167,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/brinleyww"><img src="https://profile-counter.glitch.me/brinleyww/count.svg" alt="brinleyww :: Visitor's Count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=brinleyww&label=Profile%20Views&color=0e75b6&style=flat" alt="brinleyww :: Visitor's Count" />
 </p>
 
 <br/>  
