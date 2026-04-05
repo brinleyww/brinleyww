@@ -12,13 +12,13 @@
 <br>
 
 - 😄 I have interests in Artificial Intelligence, Game Development, and Robotics.
-- 🔭 I’m currently working on: **AI integrations (Gemini, Claude)** and fun incremental games.
+- 🔭 I’m currently working on: **AI integrations** and fun incremental games.
 - 🌱 I’m currently learning: Machine learning, Lua, and C++.
 - 👯 I’m looking to collaborate on: Open-source AI tools and Python scripts.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brinleyww" alt="Brinley" /></a>
-  <a href="https://github.com/brinleyww"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Python+%26+JavaScript;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/brinleyww"><img src="https://readme-typing-svg.demolab.com/?lines=AI+Enthusiast;Python+JavaScript+Java;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <br/>
