@@ -14,8 +14,8 @@
 <br>
 
 - 😄 I have interests in Artificial Intelligence, Game Development, and Robotics.
-- 🔭 I’m currently working on: **Private AI projects** and fun logic/incremental games.
-- 🌱 I’m currently learning: Advanced Machine Learning and building intelligent workflows.
+- 🔭 I’m currently working on: **AI integrations (Gemini, Claude)** and fun incremental games.
+- 🌱 I’m currently learning: Machine learning, Lua, and C++.
 - 👯 I’m looking to collaborate on: Open-source AI tools and Python scripts.
 
 <p align="center">
