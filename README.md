@@ -12,7 +12,7 @@
 <br>
 
 - 😄 I have interests in Artificial Intelligence, Game Development, and Robotics.
-- 🔭 I’m currently working on: **AI integrations**(mainly on discord) and fun incremental games.
+- 🔭 I’m currently working on: **AI integrations** (mainly on discord) and fun incremental games.
 - 🌱 I’m currently learning: C++.
 
 <p align="center">
