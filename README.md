@@ -2,7 +2,7 @@
 > 
 > 💬 *I'm Bryan, a developer passionate about Artificial Intelligence & Robotics.*
 > 
-> 🤖 *President of FTC Team 32132.*
+> 🤖 *President of FTC Team 32132.* [**Instagram**](https://www.instagram.com/microwave32132/) with over 500k+ views
 
 <p align="center">
   <a href="https://github.com/brinleyww"><picture><img align="" height='150px' src="https://beautiful-github-homepage.vercel.app/api?username=brinleyww&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="brinleyww" /></picture></a>
