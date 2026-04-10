@@ -13,8 +13,7 @@
 
 - 😄 I have interests in Artificial Intelligence, Game Development, and Robotics.
 - 🔭 I’m currently working on: **AI integrations** and fun incremental games.
-- 🌱 I’m currently learning: Machine learning, Lua, and C++.
-- 👯 I’m looking to collaborate on: Open-source AI tools and Python scripts.
+- 🌱 I’m currently learning: C++.
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Brinleyww" alt="Brinley" /></a>
