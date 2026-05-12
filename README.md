@@ -19,21 +19,28 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://skillicons.dev">   
-    <img src="https://skillicons.dev/icons?i=py,js,java,pytorch,pandas,opencv,numpy,jupyter,git,github,discord,obsidian"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,java,pytorch,pandas,opencv,numpy,jupyter,git,github,discord,obsidian" />
   </a>
 </p>
 
-<details>
-  <summary><b>Detailed Libraries & Tools</b></summary>
-  <br/>
-  
-  - **Data/AI:** Pandas, OpenCV, NumPy, Jupyter, Claude Code, Hermes Agent, Gemini API, Deepseek
-  - **Automation:** AutoHotkey
-  - **Version Control:** GitHub Desktop, Git
-  - **Misc:** Obsidian
-</details>
+<p align="center">
+  <details>
+    <summary><b>Click to view detailed libraries & tools</b></summary>
+    <br />
+    <table align="center">
+      <tr>
+        <td align="left">
+          <b>🤖 AI & Data Management:</b> Pandas, OpenCV, NumPy, Jupyter, Claude Code, Hermes Agent, Gemini API, Deepseek <br>
+          <b>⚙️ Automation:</b> AutoHotkey <br>
+          <b>🗂️ Version Control:</b> GitHub Desktop, Git <br>
+          <b>📝 Notes:</b> Obsidian
+        </td>
+      </tr>
+    </table>
+  </details>
+</p>
 
 ---
 
