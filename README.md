@@ -21,21 +21,25 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,pytorch,pandas,opencv,numpy,jupyter,git,github,discord,obsidian" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,pytorch,opencv,git,github,discord,obsidian&perline=10" />
   </a>
+  <br>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
 
 <p align="center">
   <details>
-    <summary><b>Click to view detailed libraries & tools</b></summary>
+    <summary><b>Detailed Libraries & Tools</b></summary>
     <br />
     <table align="center">
       <tr>
         <td align="left">
-          <b>🤖 AI & Data Management:</b> Pandas, OpenCV, NumPy, Jupyter, Claude Code, Hermes Agent, Gemini API, Deepseek <br>
+          <b>🤖 AI & Data:</b> Pandas, OpenCV, NumPy, Jupyter, Claude Code, Hermes Agent, Gemini API, Deepseek <br>
           <b>⚙️ Automation:</b> AutoHotkey <br>
           <b>🗂️ Version Control:</b> GitHub Desktop, Git <br>
-          <b>📝 Notes:</b> Obsidian
+          <b>📝 Productivity:</b> Obsidian
         </td>
       </tr>
     </table>
