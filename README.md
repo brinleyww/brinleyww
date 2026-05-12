@@ -38,7 +38,16 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 ---
 
 ### 📊 GitHub Analytics
-
+<p align="center">
+   <a href="https://github.com/brinleyww?tab=repositories&sort=stargazers">
+    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/brinleyww"/>
+   </a>
+  <a href="https://github.com/brinleyww?tab=followers">
+    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/brinleyww?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+  </a>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=brinleyww&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
+</p>
 <p align="center">
   <a href="https://github.com/brinleyww">
     <img height="165px" src="https://beautiful-github-homepage.vercel.app/api?username=brinleyww&hide_title=true&show_icons=true&theme=gotham&include_all_commits=true" alt="Stats" />
@@ -67,15 +76,4 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/brinleyww/brinleyww/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" style="max-width: 100%;">
-</p>
-
-<p align="center">
-   <a href="https://github.com/brinleyww?tab=repositories&sort=stargazers">
-    <img alt="total stars" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/brinleyww"/>
-   </a>
-  <a href="https://github.com/brinleyww?tab=followers">
-    <img alt="followers" src="https://custom-icon-badges.demolab.com/github/followers/brinleyww?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=brinleyww&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Count" />
 </p>
