@@ -12,7 +12,7 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 - 🤖 **President of FTC Team 32132** (Team Microwave) | [**Instagram (500k+ views)**](https://www.instagram.com/microwave32132/)
 - 🔭 **Current Focus:** Discord AI integrations and fun incremental games.
 - 🌱 **Learning:** More Java & starting C++
-- 🌐 **Portfolio:** [brinleyww.github.io](https://brinleyww.github.io/) 
+- 🌐 **Portfolio:** [website](https://brinleyww.github.io/) 
 - 📄 **More About Me:** [About Me](https://brinleyww.github.io/about)
 
 ---
