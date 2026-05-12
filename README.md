@@ -20,8 +20,8 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,lua,react,nodejs,express,mongodb,tensorflow,pytorch,vscode,git,github,discord" />
+  <a href="https://skillicons.dev">   
+    <img src="https://skillicons.dev/icons?i=py,js,java,pytorch,pandas,opencv,numpy,jupyter,git,github,discord,obsidian"/>
   </a>
 </p>
 
