@@ -21,7 +21,7 @@ I'm a developer passionate about **Artificial Intelligence**, **Robotics**, and 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,java,cpp,pytorch,opencv,git,github,discord,obsidian&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,js,java,c,pytorch,opencv,git,github,discord,obsidian&perline=10" />
   </a>
   <br>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
